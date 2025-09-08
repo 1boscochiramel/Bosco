@@ -1,0 +1,5 @@
+{
+  "name": "QKD Benchmarking MVP",
+  "description": "An application to normalize, analyze, and report on Quantum Key Distribution (QKD) benchmark data using a multi-step AI pipeline powered by Gemini.",
+  "requestFramePermissions": []
+}
